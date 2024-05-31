@@ -5,5 +5,3 @@ Description of the Repository
 - How to use the repo
 
 - How to compile and run it
-
-- Additional information
