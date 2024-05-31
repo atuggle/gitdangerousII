@@ -6,7 +6,7 @@ Description of the Repository
 
 - How to compile and run it
 
-
+- Testing information
 
 git config --global user.name "Allen Tuggle"
 
