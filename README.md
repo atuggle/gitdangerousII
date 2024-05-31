@@ -7,4 +7,7 @@ Description of the Repository
 - How to compile and run it
 
 
-test
+
+git config --global user.name "Allen Tuggle"
+
+git config --global user.email "allen@tuggleconsulting.net"
